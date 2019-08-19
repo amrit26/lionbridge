@@ -1,0 +1,12 @@
+C:\Users\Amrit\Source\Repos\LionbridgeSolution\Lionbridge.Tasks\bin\Debug\Lionbridge.Tasks.dll
+C:\Users\Amrit\Source\Repos\LionbridgeSolution\Lionbridge.Tasks\bin\Debug\Lionbridge.Tasks.pdb
+C:\Users\Amrit\Source\Repos\LionbridgeSolution\Lionbridge.Tasks\obj\Debug\Lionbridge.Tasks.csprojResolveAssemblyReference.cache
+C:\Users\Amrit\Source\Repos\LionbridgeSolution\Lionbridge.Tasks\obj\Debug\Lionbridge.Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Amrit\Source\Repos\LionbridgeSolution\Lionbridge.Tasks\obj\Debug\Lionbridge.Tasks.dll
+C:\Users\Amrit\Source\Repos\LionbridgeSolution\Lionbridge.Tasks\obj\Debug\Lionbridge.Tasks.pdb
+C:\Users\Amrit\Source\Repos\lionbridge\LionbridgeSolution\Lionbridge.Tasks\bin\Debug\Lionbridge.Tasks.dll
+C:\Users\Amrit\Source\Repos\lionbridge\LionbridgeSolution\Lionbridge.Tasks\bin\Debug\Lionbridge.Tasks.pdb
+C:\Users\Amrit\Source\Repos\lionbridge\LionbridgeSolution\Lionbridge.Tasks\obj\Debug\Lionbridge.Tasks.csprojResolveAssemblyReference.cache
+C:\Users\Amrit\Source\Repos\lionbridge\LionbridgeSolution\Lionbridge.Tasks\obj\Debug\Lionbridge.Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Amrit\Source\Repos\lionbridge\LionbridgeSolution\Lionbridge.Tasks\obj\Debug\Lionbridge.Tasks.dll
+C:\Users\Amrit\Source\Repos\lionbridge\LionbridgeSolution\Lionbridge.Tasks\obj\Debug\Lionbridge.Tasks.pdb
